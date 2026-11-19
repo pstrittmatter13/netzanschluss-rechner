@@ -44,7 +44,7 @@ Erweiterungen) und werden nicht für das Kunden-Umspannwerk K07c verwendet; bei 
 - **Kostenvergleich (A, B, C1, C2):** wie Kapitel 5 der Bachelorarbeit, Referenzfall 10 MW. Bei anderer Leistung gilt das Ergebnis als grob, weil die Gerätepreise für den 10-MW-Fall erhoben sind.
 - **Leitfaden, grob:** weitere Varianten (S1, S2, S3a, S4, S5, S6, S9) mit ihrer Referenzleistung als Voreinstellung.
 - **Nur beschrieben:** S0 und S0b (Höchstspannung) ohne Kostenzahl, Untergrenze = BKZ × P; S7, S8b, S10 nur als Text.
-- **Leistungsklassen** je Variante (Eingabe wird darauf begrenzt) sind eine vorläufige Festlegung des Rechners, keine Aussage der Bachelorarbeit:
+- **Leistungsklassen** je Variante (Eingabe wird darauf begrenzt) sind eine Festlegung des Rechners (19.11.2026), keine Aussage der Bachelorarbeit:
 
 | Variante | Leistungsklasse |
 |---|---|

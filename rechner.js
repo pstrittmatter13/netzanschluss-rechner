@@ -14,7 +14,7 @@
   const M = D.modell, A = D.atlas;
   const KONST = M.konstanten;
 
-  /* Varianten im Tool. Festlegung des Tools (vorläufig): Leistungsklasse je Variante in kW.
+  /* Varianten im Tool. Festlegung des Tools (19.11.2026): Leistungsklasse je Variante in kW.
      A/B/C = Kostenvergleich der BA bei 10 MW; übrige = Leitfaden, grob. */
   const VARIANTEN = {
     S3b:     {gruppe: "vergleich", kurz: "A",  min: 2000,  max: 20000},
