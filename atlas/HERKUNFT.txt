@@ -1,0 +1,6 @@
+Netzkosten-Atlas Deutschland · Daniel Maier · CC BY-NC 4.0
+Quelle:  https://github.com/Signenum/netzkosten-atlas
+Commit:  72b45b4ac4542b9784af70d6cc7609f5b89cad76
+Datum:   2026-11-13 17:53:06 +0100
+Meldung: Netzentgelte 2026 für 10 weitere Netzbetreiber (Paket 1)
+Abgerufen: 19.11.2026 19:24 mit src/hole_atlas.py (unverändert, ohne .git und docs/)

@@ -1,0 +1,20 @@
+<!doctype html>
+<html lang="de"><head><meta charset="utf-8"><title>Prüfung Rechner</title>
+<style>body{font:14px/1.4 monospace;padding:16px;background:#fff;color:#111}</style></head>
+<body><h1>rechner.js gegen Kontrollsummen des BA-Rechenmodells</h1><pre id="out"></pre>
+<script src="../data/rechner_daten.js"></script>
+<script src="../rechner.js"></script>
+<script>
+// Ohne Netzgebiet, bei Referenzleistung und -länge muss der Rechner genau die Summen des Modells liefern.
+const out = [], R = window.Rechner; let fehler = 0;
+for (const v of Object.keys(R.VARIANTEN)) {
+  const ref = R.varianten[v], e = R.kosten(v, ref.P, ref.L || 0, null);
+  for (const [s, k] of [["min","Min"],["typ","Typ"],["max","Max"]]) {
+    const soll = ref.kontrolle_summe_eur[k], ist = e.summe[s];
+    if (Math.abs(soll - ist) > 0.5) { fehler++; out.push(`FEHLER ${v} ${k}: Modell ${soll} · Rechner ${ist.toFixed(2)}`); }
+  }
+  out.push(`${v.padEnd(8)} ${(e.summe.typ/1e6).toFixed(3)} Mio. € (${(e.summe.min/1e6).toFixed(2)}–${(e.summe.max/1e6).toFixed(2)})`);
+}
+out.push(fehler ? `ERGEBNIS: ${fehler} Abweichung(en)` : "ERGEBNIS: alle Varianten stimmen mit dem Modell überein");
+document.getElementById("out").textContent = out.join("\n");
+</script></body></html>

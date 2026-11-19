@@ -1,0 +1,852 @@
+{
+ "quellen": {
+  "Q10": {
+   "titel": "Netze BW GmbH – Netzausbauplan 2024",
+   "link": "https://assets.ctfassets.net/xytfb1vrn7of/2upzYS0EhiuuAU4yOYGKwi/221633c90f8989f92ec7263b09ab6352/netzausbauplan-2024.pdf"
+  },
+  "Q11": {
+   "titel": "TEN Thüringer Energienetze – Maßnahmenliste Netzausbauplan 2024",
+   "link": "https://www.thueringer-energienetze.com/Content/Documents/Ueber_uns/TEN_Netzausbaumassnahmen_110-kV.PDF"
+  },
+  "Q12": {
+   "titel": "SachsenNetze / SachsenNetze HS.HD – Netzausbauplan 2024",
+   "link": "https://www.sachsen-netze.de/wps/wcm/connect/netze/297668af-bff7-4089-9b9d-5d465aa3da2b/Netzausbauplan-2024-SachsenNetze.pdf?MOD=AJPERES&CVID=p5-YKiu ; https://www.sachsen-netze.de/wps/wcm/connect/netze/89f15228-1b67-4f49-be63-61441581db9d/Netzausbauplan-2024-SachsenNetze-HS.HD.pdf?MOD=AJPERES&CVID=p5-YP4P"
+  },
+  "Q13": {
+   "titel": "Stuttgart Netze – Netzausbauplan 2024",
+   "link": "https://www.vnbdigital.de/gateway/files?serviceName=vnb&fileId=6630b34e99abd27c97c7cb07"
+  },
+  "Q14": {
+   "titel": "NGP Netzgesellschaft Potsdam – Netzausbauplan 2024",
+   "link": "https://www.ngp-potsdam.de/content/pdf/unsere_sparten_1/strom_1/veroeffentlichungspflichten_strom/netzausbaubericht/netzausbauplan_14d_enwg_ngp_2024_dhe_30_04_2024.pdf"
+  },
+  "Q15": {
+   "titel": "Stadtwerke Rostock Netzgesellschaft – Netzausbauplan 2024",
+   "link": "https://www.vnbdigital.de/gateway/files?serviceName=vnb&fileId=6630a1be99abd27c97c7cad2"
+  },
+  "Q16": {
+   "titel": "SWKiel Netz – Netzausbauplan 2024",
+   "link": "https://www.vnbdigital.de/gateway/files?serviceName=vnb&fileId=6630cbed99abd27c97c7cb96"
+  },
+  "Q17": {
+   "titel": "Übertragungsnetzbetreiber – NEP Strom 2037/2045 (2023), Kostenschätzung 2. Entwurf",
+   "link": "https://www.netzentwicklungsplan.de/sites/default/files/2023-06/NEP_Kostenschaetzung_NEP_2037_2045_V2023_2_Entwurf.pdf"
+  },
+  "Q18": {
+   "titel": "Netze BW GmbH – Preisübersicht Baukostenzuschuss, gültig ab 01.01.2026",
+   "link": "https://assets.cdn.netze-bw.de/xytfb1vrn7of/3WkwLb2wCAE2YcQuG0YU4m/cff72cf6af73c9b225d0268390f45ebf/preisuebersicht-baukostenzuschuss-bkz-strom.pdf"
+  },
+  "Q19": {
+   "titel": "TransnetBW GmbH – Preisblatt Netzentgelte und Baukostenzuschuss 2026 (Stand 05.12.2025)",
+   "link": "https://www.transnetbw.de/_Resources/Persistent/a/9/e/f/a9efbcb228b0606834981a428d042482884cefae/2025-12-05_TransnetBW_Preisblatt%20Netzentgelte%20und%20Baukostenzuschuss%202026.pdf"
+  },
+  "Q20": {
+   "titel": "Netze BW GmbH – Vorläufige Preise Stromverteilnetz 2026 (V1.1)",
+   "link": "https://assets.ctfassets.net/xytfb1vrn7of/7eQvxehZzn3ECbR9rALmyD/bfc60bfb695f8a40a002a37a69f76b03/vorlaeufige-netzentgelte-strom-2026.pdf"
+  },
+  "Q22": {
+   "titel": "photovoltaik.sh (sun.store, 06/2026); homeandsmart – PV-Preise 2026",
+   "link": "https://www.photovoltaik.sh/news/marktentwicklungen-und-trends-preisentwicklungen-von-pv-modulen-und-wechselrichtern-in-europa-im-juni-2026 ; https://www.homeandsmart.de/preisentwicklung-photovoltaik-2026-2037-990892"
+  },
+  "Q23": {
+   "titel": "pv magazine – DGS-Branchenumfrage Anlagenzertifikat (04/2023)",
+   "link": "https://www.pv-magazine.de/2023/04/21/dgs-branchenumfrage-photovoltaik-anlagenzertifikat-weiterhin-grosser-hemmschuh-fuer-ausbau/"
+  },
+  "Q24": {
+   "titel": "cleverwatt – EZA-Regler-Pflicht und Kosten",
+   "link": "https://www.cleverwatt.energy/posts/eza-regler-pflicht"
+  },
+  "Q25": {
+   "titel": "solarserver (Sungrow, 2020); Hager Preisinfo Wandleranlagenfelder PV (2022)",
+   "link": "https://www.solarserver.de/2020/04/29/photovoltaik-netz-und-anlagenschutz-mit-integriertem-relais/ ; https://assets.hager.com/step-content/P/HA_39282642/Document/std.lang.all/22DE0213-PIN-WANDLERANLAGENFELDER-PV.pdf"
+  },
+  "Q26": {
+   "titel": "reduco – Auswertung Netzanschluss-Preisblätter 2026",
+   "link": "https://reduco.ai/blog/solar/photovoltaik-netzanschluss-kosten"
+  },
+  "Q27": {
+   "titel": "Abgeordnetenhaus Berlin, Schriftl. Anfrage S18-25483; Bayernwerk PM Erdkabel Altenerding",
+   "link": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/18/SchrAnfr/S18-25483.pdf ; https://www.mynewsdesk.com/de/bayernwerk/pressreleases/baustart-fur-erdkabelleitung-in-altenerding-3133427"
+  },
+  "Q28": {
+   "titel": "Stuttgart Netze GmbH – Preisübersicht Baukostenzuschuss, gültig ab 01.01.2026",
+   "link": "https://www.stuttgart-netze.de/filer/sharing/1768313449/3518/"
+  },
+  "Q29": {
+   "titel": "DGS LV Berlin Brandenburg e. V. (R. Haselhuhn) – Branchenumfrage PV-Anlagen: Zertifikate (04/2023)",
+   "link": "https://www.elektro.net/file/show/125391/6a4263/2023_Branchenumfrage_PV-Anlagenzertifizierung.pdf"
+  },
+  "Q30": {
+   "titel": "ENWG Energienetze Weimar – Preisblatt zu den Ergänzenden Bedingungen zur NAV, gültig ab 01.05.2026",
+   "link": "https://enwg-weimar.de/fileadmin/user_upload/Enwg/Formularpool/1_Sonstige/ENWG_FEX0014_Strom_ErgBed_Preisblatt.pdf"
+  },
+  "Q31": {
+   "titel": "Netze BW GmbH – Netzausbauplan 2026, Entwurf (Konsultation 02.–30.11.2026)",
+   "link": "https://www.vnbdigital.de/vnb/7214?filter=eyJvbmx5TmFwIjpmYWxzZSwidm9sdGFnZVR5cGVzIjpbIk5pZWRlcnNwYW5udW5nIiwiTWl0dGVsc3Bhbm51bmciXSwid2l0aFJlZ2lvbnMiOnRydWV9&term="
+  },
+  "Q32": {
+   "titel": "Bayernwerk Netz GmbH – Netzausbauplan 2026, Entwurfsfassung (Stand 30.10.2026)",
+   "link": "https://www.vnbdigital.de/vnb/1068?filter=eyJvbmx5TmFwIjpmYWxzZSwidm9sdGFnZVR5cGVzIjpbIk5pZWRlcnNwYW5udW5nIiwiTWl0dGVsc3Bhbm51bmciXSwid2l0aFJlZ2lvbnMiOnRydWV9&term="
+  },
+  "Q33": {
+   "titel": "Bayernwerk Netz GmbH – Baukostenzuschuss 2026 (Gültig ab 01. Oktober 2026 )",
+   "link": "https://www.bayernwerk-netz.de/content/dam/revu-global/bayernwerk-netz/files/energie-anschliessen/anschluss-mittel-und-hochspannung/261001-preisblatt-bkz-bage-ab102026.pdf"
+  },
+  "Q34": {
+   "titel": "Bundesnetzagentur, Beschlusskammer 8 – Positionspapier zur Erhebung von Baukostenzuschüssen (20.11.2024)",
+   "link": "https://www.bundesnetzagentur.de/DE/Beschlusskammern/BK08/BK8_04_InfoRundschr/43_Leitfaeden/Downloads/Positionspapier_DL.pdf"
+  },
+  "Q35": {
+   "titel": "Brandenburgisches Oberlandesgericht, 6. Zivilsenat – Urteil vom 07.07.2020, Az. 6 U 164/18 (MS-Schaltfeld im Umspannwerk, 140.182 € brutto, Bestellung 2016)",
+   "link": "https://gerichtsentscheidungen.brandenburg.de/gerichtsentscheidung/559"
+  },
+  "Q36": {
+   "titel": "Burges, K. (RE-xpertise); Kippelt, S. (ef.Ruhr) – Grid-related challenges of high-power and megawatt charging stations for battery-electric long-haul trucks, Studie im Auftrag von Transport & Environment (2021), Tab. 2-3",
+   "link": "https://www.transportenvironment.org/uploads/files/2022_01_TE_grid_integration_long_haul_truck_charging_study_final.pdf"
+  },
+  "Q37": {
+   "titel": "Rehtanz, C.; Greve, M.; Häger, U.; Hagemann, Z.; Kippelt, S.; Kittl, C.; Kloubert, M.-L.; Pohl, O.; Rewald, F.; Wagner, C. (ef.Ruhr GmbH, Hrsg.) – Verteilnetzstudie für das Land Baden-Württemberg, im Auftrag des Ministeriums für Umwelt, Klima und Energiewirtschaft BW, 13.04.2017, Tab. 7.1 (S. 91)",
+   "link": "https://um.baden-wuerttemberg.de/fileadmin/redaktion/m-um/intern/Dateien/Dokumente/5_Energie/Versorgungssicherheit/170413_Verteilnetzstudie_BW.pdf"
+  },
+  "Q38": {
+   "titel": "BMU Energy Consulting GmbH (Hrsg.) – Dokumentation der technischen Mengengerüste für die dena-Verteilnetzstudie II, im Auftrag der Deutschen Energie-Agentur (dena), Wuppertal, 31.01.2026, Kap. 4.2 (S. 14)",
+   "link": "https://www.dena.de/fileadmin/dena/Publikationen/PDFs/2026/Dokumentation_tech._Mengengerueste_dena-Verteilnetzstudie_II.pdf"
+  },
+  "Q39": {
+   "titel": "nicht veröffentlichte Angabe (Herstellerauskunft)",
+   "link": null
+  },
+  "Q40": {
+   "titel": "nicht veröffentlichte Angabe (Herstellerauskunft)",
+   "link": null
+  },
+  "Q41": {
+   "titel": "Netzkosten-Atlas Deutschland – eigene Auswertung (Paul mit Daniel) der BKZ-Preisblätter 2026 von VNB, Datensatz data/bkz.csv, Stand 09.11.2026",
+   "link": "https://github.com/Signenum/netzkosten-atlas"
+  },
+  "Q42": {
+   "titel": "Regionetz GmbH – Preisblatt Baukostenzuschuss oberhalb der Niederspannung 2026",
+   "link": "https://www.regionetz.de/de/Service/Downloads/Downloads/2026-Preisblatt-Baukostenzuschuss-oberhalb-der-Niederspannung.pdf"
+  },
+  "Q43": {
+   "titel": "NEW Netz GmbH – Preisblatt Netzanschlüsse Strom/Wasser/Gas inkl. BKZ, gültig ab 01.01.2026",
+   "link": "https://www.new-netz.de/mediathek/2026-01-01%20Preisblatt%20Netzanschl%C3%BCsse%20Strom-Wasser-Gas%20inkl.%20BKZ.pdf"
+  },
+  "Q44": {
+   "titel": "LEW Verteilnetz GmbH – Preisblatt Baukostenzuschuss 2026 (Stand 22.12.2025)",
+   "link": "https://lew-verteilnetz.euwest01.umbraco.io/media/xaiblfra/preisblatt_bkz_2026_20251222.pdf"
+  },
+  "Q45": {
+   "titel": "Gelsenwasser Energienetze GmbH – Preisblatt Netzanschlüsse und BKZ Strom 2026 (Stand 12.12.2025)",
+   "link": "https://www.gw-energienetze.de/fileadmin/gw-energienetze/20_netzanschluss/2025-12-12_preisblatt_netzanschl%C3%BCsse_und_bkz_strom_2026.pdf"
+  },
+  "Q46": {
+   "titel": "Fuchs, A.; Pfeiffer, K. (Lehrstuhl Energieverteilung und Hochspannungstechnik, BTU Cottbus) – Studie zu separaten Netzen, im Auftrag des Ministeriums für Wirtschaft und Europaangelegenheiten des Landes Brandenburg, Cottbus, 17.04.2013, Tab. 8 (S. 16), Tab. 11 (S. 24)",
+   "link": "https://mwaek.brandenburg.de/media/bb1.a.3814.de/Studie_zu_separaten_Netzen.pdf"
+  },
+  "Q47": {
+   "titel": "OsthessenNetz GmbH – Netzbericht nach § 14d Abs. 4 EnWG, Netzausbauplan (Stand 16.08.2024), Anhang Maßnahmentabelle",
+   "link": "https://www.vnbdigital.de/gateway/files?serviceName=vnb&fileId=66bf2fc6a968a01b8c64d4f9"
+  },
+  "Q48": {
+   "titel": "Pfalzwerke Netz AG – Netzausbauplan der Pfalzwerke Netz AG gemäß § 14d EnWG, Version 07.08.2024 (angepasste Fassung), Anhang A (Detaillierte Maßnahmentabellen HS- und HS/MS-Ebene), S. 38, Nr. 1011–1014",
+   "link": "https://www.vnbdigital.de/gateway/files?serviceName=vnb&fileId=6667f1210763edd9446850d9"
+  }
+ },
+ "datenstand": "Excel Tabelle zur Übersicht über mögliche Speicherpositionen.xlsx · geändert 19.11.2026 13:20 · SHA-256 de76cc1b1df3 · gerechnet 19.11.2026 19:24",
+ "konstanten": {
+  "COS_PHI": 0.95,
+  "P_KABEL_MW": 12.0
+ },
+ "gruppen": {
+  "Baukostenzuschuss": [
+   "K17.1",
+   "K17.2",
+   "K17.3",
+   "K17.4",
+   "K17.5",
+   "K17.6",
+   "K17.7"
+  ],
+  "Schaltanlagen und Stationen": [
+   "K06a",
+   "K06b",
+   "K06c",
+   "K07b",
+   "K08"
+  ],
+  "Umspannung": [
+   "K04",
+   "K05",
+   "K07c"
+  ],
+  "Anschlussleitung": [
+   "K14",
+   "K15",
+   "K16"
+  ],
+  "NS-Anschluss": [
+   "K09",
+   "K10"
+  ],
+  "Sekundärtechnik und Nachweise": [
+   "K11",
+   "K18a",
+   "K18b",
+   "K19",
+   "K20"
+  ]
+ },
+ "vergleich": {
+  "A": "S3b",
+  "B": "S2_10MW",
+  "C1": "S8a",
+  "C2": "S8a_N"
+ },
+ "mitnutzung": [
+  "S6",
+  "S8a",
+  "S8a_N",
+  "S9"
+ ],
+ "bausteine": {
+  "K01": {
+   "name": "Wechselrichter NS (Gewerbe-/String-WR)",
+   "einheit": "€/kW",
+   "min": 28.0,
+   "typ": 100.0,
+   "max": 120.0,
+   "quelle": "Q22",
+   "datenqualitaet": "nicht betrachtet",
+   "gruppe": null
+  },
+  "K02": {
+   "name": "Zentral-Wechselrichter (ab MS)",
+   "einheit": "€/kW",
+   "min": 80.0,
+   "typ": 100.0,
+   "max": 120.0,
+   "quelle": "–",
+   "datenqualitaet": "nicht betrachtet",
+   "gruppe": null
+  },
+  "K03": {
+   "name": "MS-Station mit Mittelspannungstransformator (MS/NS)",
+   "einheit": "€/Stück (630 kVA)",
+   "min": 74000.0,
+   "typ": 101000.0,
+   "max": 117000.0,
+   "quelle": "Q31, Q32",
+   "datenqualitaet": "nicht betrachtet",
+   "gruppe": null
+  },
+  "K04": {
+   "name": "Zusatztransformator HS/MS inkl. Transformatorfeld und Fundament (Standardgröße 40–63 MVA)",
+   "einheit": "€/Stück",
+   "min": 2390000.0,
+   "typ": 2900000.0,
+   "max": 3200000.0,
+   "quelle": "Q37, Q11, Q39",
+   "datenqualitaet": "abgeleitet",
+   "gruppe": "Umspannung"
+  },
+  "K05": {
+   "name": "Haupttransformator HöS/MS",
+   "einheit": "€/MVA",
+   "min": 18000.0,
+   "typ": 21000.0,
+   "max": 21000.0,
+   "quelle": "Q17",
+   "datenqualitaet": "abgeleitet",
+   "gruppe": "Umspannung"
+  },
+  "K06a": {
+   "name": "MS-Übergabestation komplett, Stichanschluss (Eingangs- und Reservefeld, Übergabe-Leistungsschalterfeld mit Schutz, Messfeld, Station)",
+   "einheit": "€/Stück",
+   "min": 125000.0,
+   "typ": 155000.0,
+   "max": 185000.0,
+   "quelle": "Q40",
+   "datenqualitaet": "Herstellerangabe",
+   "gruppe": "Schaltanlagen und Stationen"
+  },
+  "K06b": {
+   "name": "MS-Leistungsschalterfeld im Umspannwerk inkl. Schutzrelais, ohne Messung (Trafofeld oder UW-Abgang)",
+   "einheit": "€/Feld",
+   "min": 50000.0,
+   "typ": 164000.0,
+   "max": 180000.0,
+   "quelle": "Q35, Q40, Q39, Q48",
+   "datenqualitaet": "abgeleitet",
+   "gruppe": "Schaltanlagen und Stationen"
+  },
+  "K07a": {
+   "name": "HS-Schaltwerk Grundausstattung (Sammelschiene, Gelände, Sekundär- und Leittechnik)",
+   "einheit": "€/Stück",
+   "min": 2000000.0,
+   "typ": 3600000.0,
+   "max": 3600000.0,
+   "quelle": "Q11",
+   "datenqualitaet": "nicht verwendet",
+   "gruppe": null
+  },
+  "K07b": {
+   "name": "HS-Schaltfeld inkl. Schutz und Wandler",
+   "einheit": "€/Feld",
+   "min": 556000.0,
+   "typ": 1300000.0,
+   "max": 2000000.0,
+   "quelle": "Q11, Q17, Q37, Q39",
+   "datenqualitaet": "abgeleitet",
+   "gruppe": "Schaltanlagen und Stationen"
+  },
+  "K08": {
+   "name": "HöS-Schaltfeld inkl. Schutz und Wandler",
+   "einheit": "€/Feld",
+   "min": 3300000.0,
+   "typ": 4900000.0,
+   "max": 4900000.0,
+   "quelle": "Q17",
+   "datenqualitaet": "belegt",
+   "gruppe": "Schaltanlagen und Stationen"
+  },
+  "K09": {
+   "name": "NS-Anschluss (Hausanschluss + Verteilung)",
+   "einheit": "€/Stück",
+   "min": 420.0,
+   "typ": 1500.0,
+   "max": 2930.0,
+   "quelle": "Q26",
+   "datenqualitaet": "Annahme (Größenordnung)",
+   "gruppe": "NS-Anschluss"
+  },
+  "K10": {
+   "name": "Paket NS: NA-Schutz, Messung, Steuerbox",
+   "einheit": "€/Stück",
+   "min": 2000.0,
+   "typ": 4850.0,
+   "max": 4850.0,
+   "quelle": "Q25",
+   "datenqualitaet": "Annahme (Größenordnung)",
+   "gruppe": "NS-Anschluss"
+  },
+  "K11": {
+   "name": "Fernwirktechnik und EZA-Regler komplett (inkl. Netzbetreiberanbindung)",
+   "einheit": "€/Stück",
+   "min": 25000.0,
+   "typ": 40000.0,
+   "max": 55000.0,
+   "quelle": "Q40",
+   "datenqualitaet": "Herstellerangabe",
+   "gruppe": "Sekundärtechnik und Nachweise"
+  },
+  "K12": {
+   "name": "Stationsleittechnik HS/HöS",
+   "einheit": "€/Stück",
+   "min": 0.0,
+   "typ": 0.0,
+   "max": 0.0,
+   "quelle": "–",
+   "datenqualitaet": "nicht verwendet",
+   "gruppe": null
+  },
+  "K13": {
+   "name": "Kabel inkl. Tiefbau NS",
+   "einheit": "€/m",
+   "min": 102.0,
+   "typ": 154.0,
+   "max": 500.0,
+   "quelle": "Q12, Q13, Q31, Q32",
+   "datenqualitaet": "nicht verwendet",
+   "gruppe": null
+  },
+  "K14": {
+   "name": "Kabel inkl. Tiefbau MS",
+   "einheit": "€/m",
+   "min": 139.0,
+   "typ": 227.0,
+   "max": 353.0,
+   "quelle": "Q12, Q14, Q15, Q16, Q31, Q32, Q38",
+   "datenqualitaet": "belegt",
+   "gruppe": "Anschlussleitung"
+  },
+  "K15": {
+   "name": "Kabel/Freileitung inkl. Trasse HS",
+   "einheit": "€/m",
+   "min": 1276.0,
+   "typ": 1276.0,
+   "max": 4000.0,
+   "quelle": "Q27, Q31, Q32",
+   "datenqualitaet": "belegt",
+   "gruppe": "Anschlussleitung"
+  },
+  "K16": {
+   "name": "Kabel/Freileitung inkl. Trasse HöS",
+   "einheit": "€/m",
+   "min": 4500.0,
+   "typ": 4500.0,
+   "max": 16000.0,
+   "quelle": "Q17",
+   "datenqualitaet": "belegt",
+   "gruppe": "Anschlussleitung"
+  },
+  "K17.1": {
+   "name": "BKZ Höchstspannung (NE 1)",
+   "einheit": "€/kW",
+   "min": 77.53,
+   "typ": 96.91,
+   "max": 96.91,
+   "quelle": "Q19",
+   "datenqualitaet": "belegt",
+   "gruppe": "Baukostenzuschuss"
+  },
+  "K17.2": {
+   "name": "BKZ Umspannung HöS/HS (NE 2)",
+   "einheit": "€/kW",
+   "min": 90.52,
+   "typ": 113.15,
+   "max": 113.15,
+   "quelle": "Q19, Q33",
+   "datenqualitaet": "belegt",
+   "gruppe": "Baukostenzuschuss"
+  },
+  "K17.3": {
+   "name": "BKZ Hochspannung (NE 3)",
+   "einheit": "€/kW",
+   "min": 46.49,
+   "typ": 126.99,
+   "max": 162.97,
+   "quelle": "Q41, Q42, Q18",
+   "datenqualitaet": "belegt",
+   "gruppe": "Baukostenzuschuss"
+  },
+  "K17.4": {
+   "name": "BKZ Umspannung HS/MS (NE 4, MS-Sammelschiene im UW)",
+   "einheit": "€/kW",
+   "min": 50.15,
+   "typ": 114.8,
+   "max": 164.94,
+   "quelle": "Q41, Q43, Q18",
+   "datenqualitaet": "belegt",
+   "gruppe": "Baukostenzuschuss"
+  },
+  "K17.5": {
+   "name": "BKZ Mittelspannung (NE 5)",
+   "einheit": "€/kW",
+   "min": 56.33,
+   "typ": 132.23,
+   "max": 172.74,
+   "quelle": "Q41, Q43, Q18",
+   "datenqualitaet": "belegt",
+   "gruppe": "Baukostenzuschuss"
+  },
+  "K17.6": {
+   "name": "BKZ Umspannung MS/NS (NE 6)",
+   "einheit": "€/kW",
+   "min": 61.48,
+   "typ": 141.65,
+   "max": 185.57,
+   "quelle": "Q41, Q43, Q44",
+   "datenqualitaet": "belegt",
+   "gruppe": "Baukostenzuschuss"
+  },
+  "K17.7": {
+   "name": "BKZ Niederspannung (NE 7)",
+   "einheit": "€/kW",
+   "min": 17.85,
+   "typ": 64.81,
+   "max": 121.05,
+   "quelle": "Q41, Q43, Q45",
+   "datenqualitaet": "belegt",
+   "gruppe": "Baukostenzuschuss"
+  },
+  "K18a": {
+   "name": "Einheitenzertifikat + Planung NS",
+   "einheit": "€/Stück",
+   "min": 0.0,
+   "typ": 0.0,
+   "max": 0.0,
+   "quelle": "–",
+   "datenqualitaet": "Annahme",
+   "gruppe": "Sekundärtechnik und Nachweise"
+  },
+  "K18b": {
+   "name": "Anlagenzertifikat + Planung",
+   "einheit": "€/Stück",
+   "min": 5000.0,
+   "typ": 10000.0,
+   "max": 15000.0,
+   "quelle": "Q23, Q29",
+   "datenqualitaet": "Annahme (Größenordnung)",
+   "gruppe": "Sekundärtechnik und Nachweise"
+  },
+  "K19": {
+   "name": "Unterzähler",
+   "einheit": "€/Stück",
+   "min": 300.0,
+   "typ": 1000.0,
+   "max": 3000.0,
+   "quelle": "–",
+   "datenqualitaet": "Annahme",
+   "gruppe": "Sekundärtechnik und Nachweise"
+  },
+  "K20": {
+   "name": "Anpassung Bestand (NA-Schutz, Parkregler, Zertifikatsnachtrag)",
+   "einheit": "€/Stück",
+   "min": 10000.0,
+   "typ": 20000.0,
+   "max": 30000.0,
+   "quelle": "Q40",
+   "datenqualitaet": "Herstellerangabe",
+   "gruppe": "Sekundärtechnik und Nachweise"
+  },
+  "K07c": {
+   "name": "Kunden-Umspannwerk HS/MS kompakt (1 Transformator, Transformatorfelder, MS-Schaltanlage, Schutz-, Sekundär- und Leittechnik, Gebäude, Grund und Boden)",
+   "einheit": "€/Stück",
+   "min": 3830000.0,
+   "typ": 5000000.0,
+   "max": 8500000.0,
+   "quelle": "Q46, Q11, Q38, Q47, Q39, Q37",
+   "datenqualitaet": "abgeleitet",
+   "gruppe": "Umspannung"
+  },
+  "K06c": {
+   "name": "MS-Leistungsschalterfeld in Station bzw. Kundenanlage inkl. Schutzrelais, ohne Messung (Abgang in Netzstation, Zusatzfeld in ONS oder Bestand)",
+   "einheit": "€/Feld",
+   "min": 35000.0,
+   "typ": 40000.0,
+   "max": 70000.0,
+   "quelle": "Q40, Q36",
+   "datenqualitaet": "Herstellerangabe",
+   "gruppe": "Schaltanlagen und Stationen"
+  },
+  "K21": {
+   "name": "Faktor BKZ bei flexibler Netzanschlussvereinbarung (§ 17 Abs. 2b EnWG)",
+   "einheit": "–",
+   "min": 0.3,
+   "typ": 0.3,
+   "max": 1.0,
+   "quelle": "Q33 (alte Fassung bis 30.09.2026)",
+   "datenqualitaet": "nicht verwendet",
+   "gruppe": null
+  }
+ },
+ "varianten": {
+  "S0": {
+   "bezeichnung": "Eigener Anschluss HöS",
+   "netzebene": "HöS",
+   "vergleich": null,
+   "kurzname": null,
+   "P": 300000,
+   "Bezugsleistung": 300000,
+   "L": 500.0,
+   "e": 1,
+   "m": 1.0,
+   "mengen": {
+    "K05": "S_haupt",
+    "K06b": "m",
+    "K08": "1 + m",
+    "K16": "L × e",
+    "K17.1": "Bezugsleistung",
+    "K18b": "1"
+   },
+   "kontrolle_summe_eur": {
+    "Min": 37848210.53,
+    "Typ": 47928578.95,
+    "Max": 53699578.95
+   }
+  },
+  "S1": {
+   "bezeichnung": "Eigener Anschluss HS im Netz",
+   "netzebene": "HS",
+   "vergleich": null,
+   "kurzname": "HS, im Netz",
+   "P": 50000,
+   "Bezugsleistung": 50000,
+   "L": 500.0,
+   "e": 2,
+   "m": 1.0,
+   "mengen": {
+    "K04": "m − 1",
+    "K07b": "2",
+    "K15": "L × e",
+    "K17.3": "Bezugsleistung",
+    "K18b": "1",
+    "K07c": "1"
+   },
+   "kontrolle_summe_eur": {
+    "Min": 8547500.0,
+    "Typ": 15235500.0,
+    "Max": 24663500.0
+   }
+  },
+  "S2": {
+   "bezeichnung": "Eigener Anschluss HS am UW",
+   "netzebene": "HS",
+   "vergleich": null,
+   "kurzname": "HS, am Umspannwerk",
+   "P": 50000,
+   "Bezugsleistung": 50000,
+   "L": 500.0,
+   "e": 1,
+   "m": 1.0,
+   "mengen": {
+    "K04": "m − 1",
+    "K07b": "1",
+    "K15": "L",
+    "K17.3": "Bezugsleistung",
+    "K18b": "1",
+    "K07c": "1"
+   },
+   "kontrolle_summe_eur": {
+    "Min": 7353500.0,
+    "Typ": 13297500.0,
+    "Max": 20663500.0
+   }
+  },
+  "S2_10MW": {
+   "bezeichnung": "Wie S2, mit 10 MW",
+   "netzebene": "HS",
+   "vergleich": "B",
+   "kurzname": null,
+   "P": 10000,
+   "Bezugsleistung": 10000,
+   "L": 500.0,
+   "e": 1,
+   "m": 1.0,
+   "mengen": {
+    "K04": "m − 1",
+    "K07b": "1",
+    "K15": "L",
+    "K17.3": "Bezugsleistung",
+    "K18b": "1",
+    "K07c": "1"
+   },
+   "kontrolle_summe_eur": {
+    "Min": 5493900.0,
+    "Typ": 8217900.0,
+    "Max": 14144700.0
+   }
+  },
+  "S3a": {
+   "bezeichnung": "Eigener Anschluss MS im Netz",
+   "netzebene": "MS",
+   "vergleich": null,
+   "kurzname": "MS, im Netz",
+   "P": 2000,
+   "Bezugsleistung": 2000,
+   "L": 500.0,
+   "e": 1,
+   "m": null,
+   "mengen": {
+    "K06a": "1",
+    "K11": "1",
+    "K14": "L × e × k",
+    "K17.5": "Bezugsleistung",
+    "K18b": "1",
+    "K06c": "k"
+   },
+   "kontrolle_summe_eur": {
+    "Min": 372160.0,
+    "Typ": 622960.0,
+    "Max": 846980.0
+   }
+  },
+  "S3b": {
+   "bezeichnung": "Eigener Anschluss MS-Sammelschiene UW",
+   "netzebene": "MS (NE 4)",
+   "vergleich": "A",
+   "kurzname": "MS, am Umspannwerk",
+   "P": 10000,
+   "Bezugsleistung": 10000,
+   "L": 500.0,
+   "e": 1,
+   "m": null,
+   "mengen": {
+    "K06a": "1",
+    "K06b": "k",
+    "K11": "1",
+    "K14": "L × e × k",
+    "K17.4": "Bezugsleistung",
+    "K18b": "1"
+   },
+   "kontrolle_summe_eur": {
+    "Min": 776000.0,
+    "Typ": 1630500.0,
+    "Max": 2260900.0
+   }
+  },
+  "S4": {
+   "bezeichnung": "NS an Ortsnetzstation",
+   "netzebene": "NS (NE 6)",
+   "vergleich": null,
+   "kurzname": "NS, an Ortsnetzstation",
+   "P": 250,
+   "Bezugsleistung": 250,
+   "L": null,
+   "e": 1,
+   "m": null,
+   "mengen": {
+    "K09": "1",
+    "K10": "1",
+    "K17.6": "max(Bezugsleistung − 30; 0)",
+    "K18a": "1"
+   },
+   "kontrolle_summe_eur": {
+    "Min": 15945.6,
+    "Typ": 37513.0,
+    "Max": 48605.4
+   }
+  },
+  "S5": {
+   "bezeichnung": "Stand-alone-Speicher im Niederspannungsnetz",
+   "netzebene": "NS",
+   "vergleich": null,
+   "kurzname": "NS, im Netz",
+   "P": 100,
+   "Bezugsleistung": 100,
+   "L": null,
+   "e": 1,
+   "m": null,
+   "mengen": {
+    "K09": "1",
+    "K10": "1",
+    "K17.7": "max(Bezugsleistung − 30; 0)",
+    "K18a": "1"
+   },
+   "kontrolle_summe_eur": {
+    "Min": 3669.5,
+    "Typ": 10886.7,
+    "Max": 16253.5
+   }
+  },
+  "S6": {
+   "bezeichnung": "Mitnutzung Verbraucheranschluss MS/HS (Gewerbe, Industrie, Ladepark)",
+   "netzebene": "MS",
+   "vergleich": null,
+   "kurzname": "Mitnutzung Verbraucheranschluss (MS)",
+   "P": 1000,
+   "Bezugsleistung": 0,
+   "L": 100.0,
+   "e": 1,
+   "m": null,
+   "mengen": {
+    "K14": "L × k",
+    "K19": "1",
+    "K20": "1",
+    "K06c": "k"
+   },
+   "kontrolle_summe_eur": {
+    "Min": 59200.0,
+    "Typ": 83700.0,
+    "Max": 138300.0
+   }
+  },
+  "S7": {
+   "bezeichnung": "Mitnutzung NS-Anschluss (Haushalt, Gewerbe) – BTM",
+   "netzebene": "NS",
+   "vergleich": null,
+   "kurzname": null,
+   "P": 10,
+   "Bezugsleistung": 10,
+   "L": 0.0,
+   "e": 1,
+   "m": null,
+   "mengen": {
+    "K18a": "1"
+   },
+   "kontrolle_summe_eur": {
+    "Min": 0.0,
+    "Typ": 0.0,
+    "Max": 0.0
+   }
+  },
+  "S8a": {
+   "bezeichnung": "Co-Location EE-Park (PV oder Wind), AC – nur EE-Ladung",
+   "netzebene": "MS (NE 4)",
+   "vergleich": "C1",
+   "kurzname": "Co-Location EE-Park, nur EE-Ladung",
+   "P": 10000,
+   "Bezugsleistung": 0,
+   "L": 300.0,
+   "e": 1,
+   "m": null,
+   "mengen": {
+    "K14": "L × k",
+    "K19": "1",
+    "K20": "1",
+    "K06c": "k"
+   },
+   "kontrolle_summe_eur": {
+    "Min": 87000.0,
+    "Typ": 129100.0,
+    "Max": 208900.0
+   }
+  },
+  "S8a_N": {
+   "bezeichnung": "Co-Location EE-Park (PV oder Wind), AC – mit Netzladung",
+   "netzebene": "MS (NE 4)",
+   "vergleich": "C2",
+   "kurzname": "Co-Location EE-Park, mit Netzladung",
+   "P": 10000,
+   "Bezugsleistung": 10000,
+   "L": 300.0,
+   "e": 1,
+   "m": null,
+   "mengen": {
+    "K14": "L × k",
+    "K17.4": "Bezugsleistung",
+    "K19": "1",
+    "K20": "1",
+    "K06c": "k"
+   },
+   "kontrolle_summe_eur": {
+    "Min": 588500.0,
+    "Typ": 1277100.0,
+    "Max": 1858300.0
+   }
+  },
+  "S8b": {
+   "bezeichnung": "Co-Location PV-Park, DC (unvollständig)",
+   "netzebene": "MS",
+   "vergleich": null,
+   "kurzname": null,
+   "P": 10000,
+   "Bezugsleistung": 0,
+   "L": 0.0,
+   "e": 1,
+   "m": null,
+   "mengen": {
+    "K19": "1",
+    "K20": "1"
+   },
+   "kontrolle_summe_eur": {
+    "Min": 10300.0,
+    "Typ": 21000.0,
+    "Max": 33000.0
+   }
+  },
+  "S9": {
+   "bezeichnung": "Co-Location Windpark (HS)",
+   "netzebene": "HS",
+   "vergleich": null,
+   "kurzname": "Co-Location EE-Park (HS)",
+   "P": 50000,
+   "Bezugsleistung": 0,
+   "L": 300.0,
+   "e": 1,
+   "m": null,
+   "mengen": {
+    "K14": "L × k",
+    "K19": "1",
+    "K20": "1",
+    "K06c": "k"
+   },
+   "kontrolle_summe_eur": {
+    "Min": 393800.0,
+    "Typ": 561500.0,
+    "Max": 912500.0
+   }
+  }
+ }
+}

@@ -1,0 +1,41 @@
+/* Netzanschluss-Rechner – nutzt die Farb- und Schrift-Variablen der Atlas-Karte (:root in index.html) */
+#rechner{max-width:1400px;margin-inline:auto}
+.rgrid{display:grid;grid-template-columns:minmax(0,360px) minmax(0,1fr);gap:12px}
+.rgrid .panel.wide{grid-column:1/-1}
+@media (max-width:900px){.rgrid{grid-template-columns:minmax(0,1fr)}}
+.rfeld{display:grid;gap:4px}
+.rfeld[hidden]{display:none}
+.rfeld select,.rfeld input[type=number]{font:inherit;font-size:.86rem;padding:5px 6px;border:1px solid var(--line);border-radius:4px;background:var(--bg);color:var(--ink);min-width:0}
+.rfeld select{width:100%}
+.rzeile{display:grid;grid-template-columns:minmax(0,1fr) 96px auto;gap:8px;align-items:center}
+.rzeile input[type=number]{font-family:var(--f-mono);text-align:right;width:100%}
+.rzeile input[type=range]{width:100%;accent-color:var(--accent)}
+.einh{color:var(--muted);font-size:.8rem;min-width:22px}
+.rnote{font-size:.78rem;color:var(--muted);margin:0}
+.rhinweis{font-size:.8rem;margin:4px 0 0;padding:5px 8px;border-left:3px solid var(--mid);background:color-mix(in srgb,var(--mid) 12%,transparent)}
+.rbtn{font:inherit;font-size:.8rem;padding:6px 8px;border:1px solid var(--line);border-radius:4px;background:var(--bg);color:var(--ink);cursor:pointer;justify-self:start}
+.rbtn:hover{border-color:var(--accent)}
+.rbtn:focus-visible,.rfeld select:focus-visible,.rfeld input:focus-visible{outline:2px solid var(--accent);outline-offset:1px}
+.rkopf{display:flex;gap:8px;flex-wrap:wrap}
+.pill{display:inline-block;font-size:.72rem;font-weight:600;padding:2px 8px;border-radius:10px}
+.pill.ok{background:var(--accent);color:var(--panel)}
+.pill.grob{background:var(--mid);color:#17221f}
+.rgross{font-family:var(--f-disp);font-weight:700;font-size:2rem;margin:2px 0 0;font-variant-numeric:tabular-nums}
+.rspanne{font-family:var(--f-mono);font-size:.8rem;margin:0}
+.rbar{display:flex;height:14px;border-radius:3px;overflow:hidden;margin-top:8px;gap:1px;background:var(--line)}
+.rbar span{min-width:2px}
+.rleg{display:flex;flex-wrap:wrap;gap:4px 14px;font-size:.78rem;color:var(--muted)}
+.rleg i,.rtbl i{display:inline-block;width:10px;height:10px;border-radius:2px;margin-right:5px;vertical-align:-1px}
+.rleg b{font-family:var(--f-mono);font-weight:500;color:var(--ink)}
+.rtbl{display:grid;font-size:.8rem;overflow-x:auto}
+.rtbl .tr{display:grid;grid-template-columns:minmax(220px,2.4fr) 64px 110px 88px 150px minmax(170px,1.4fr) minmax(70px,.7fr);gap:6px 10px;padding:5px 2px;border-bottom:1px solid var(--line);align-items:baseline;min-width:900px}
+.rtbl .th{font-family:var(--f-disp);font-weight:600;font-size:.72rem;letter-spacing:.06em;text-transform:uppercase;color:var(--muted)}
+.rtbl .num{font-family:var(--f-mono);font-variant-numeric:tabular-nums;text-align:right}
+.rtbl small{color:var(--muted)}
+.rtbl a{color:var(--accent)}
+.hk{font-size:.72rem;padding:1px 6px;border-radius:8px;white-space:nowrap}
+.hk.ba{background:var(--bg);border:1px solid var(--line)}
+.hk.reg{background:color-mix(in srgb,var(--accent) 18%,transparent)}
+.hk.proxy{background:color-mix(in srgb,var(--mid) 25%,transparent)}
+.card .rkurz{margin:10px 0 0;padding-top:8px;border-top:1px solid var(--line);font-size:.82rem}
+.card .rkurz a{color:var(--accent)}

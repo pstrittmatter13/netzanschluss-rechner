@@ -1,0 +1,392 @@
+{
+ "SWP Stadtwerke Pforzheim GmbH & Co. KG": {
+  "disp": "Stadtwerke Pforzheim",
+  "bl": "BW",
+  "typ": "Stadt",
+  "id": "516"
+ },
+ "e-regio Netz GmbH": {
+  "disp": "e-regio Netz (Euskirchen)",
+  "bl": "NW/RP",
+  "typ": "Fläche",
+  "id": "McJLd6A47sSAzLyoN"
+ },
+ "Stadtwerke Bayreuth Energie und Wasser GmbH": {
+  "disp": "Stadtwerke Bayreuth",
+  "bl": "BY",
+  "typ": "Stadt",
+  "id": "74"
+ },
+ "Stadtwerke Bamberg Energie- und Wasserversorgungs GmbH": {
+  "disp": "Stadtwerke Bamberg",
+  "bl": "BY",
+  "typ": "Stadt",
+  "id": "70"
+ },
+ "Stadtwerke Baden-Baden": {
+  "disp": "Stadtwerke Baden-Baden",
+  "bl": "BW",
+  "typ": "Stadt",
+  "id": "61"
+ },
+ "Stadtwerke Schwäbisch Hall GmbH": {
+  "disp": "Stadtwerke Schwäbisch Hall",
+  "bl": "BW",
+  "typ": "Fläche",
+  "id": "7067"
+ },
+ "Stadtwerke Mühlacker GmbH": {
+  "disp": "Stadtwerke Mühlacker",
+  "bl": "BW",
+  "typ": "Stadt",
+  "id": "431"
+ },
+ "LokalWerke GmbH": {
+  "disp": "LokalWerke",
+  "bl": "NW",
+  "typ": "Fläche",
+  "id": "8"
+ },
+ "Albwerk GmbH & Co. KG": {
+  "disp": "Albwerk (Geislingen)",
+  "bl": "BW",
+  "typ": "Fläche",
+  "id": "219"
+ },
+ "Stadtwerke Ludwigsburg-Kornwestheim GmbH": {
+  "disp": "Stadtwerke Ludwigsburg-Kornwestheim",
+  "bl": "BW",
+  "typ": "Stadt",
+  "id": "7479"
+ },
+ "Gelsenwasser Energienetze GmbH": {
+  "disp": "Gelsenwasser Energienetze",
+  "bl": "NI/NW",
+  "typ": "Fläche",
+  "id": "7653"
+ },
+ "ESTW - Erlanger Stadtwerke AG": {
+  "disp": "Erlanger Stadtwerke (ESTW)",
+  "bl": "BY",
+  "typ": "Stadt",
+  "id": "179"
+ },
+ "Stadtwerke Tübingen GmbH": {
+  "disp": "Stadtwerke Tübingen",
+  "bl": "BW",
+  "typ": "Stadt",
+  "id": "640"
+ },
+ "ÜZ Mainfranken eG": {
+  "disp": "ÜZ Mainfranken",
+  "bl": "BY",
+  "typ": "Fläche",
+  "id": "401"
+ },
+ "KEW Kommunale Energie- und Wasserversorgung AG": {
+  "disp": "KEW Neunkirchen",
+  "bl": "SL",
+  "typ": "Stadt",
+  "id": "461"
+ },
+ "Creos Deutschland GmbH": {
+  "disp": "Creos Deutschland",
+  "bl": "SL",
+  "typ": "Fläche",
+  "id": "962"
+ },
+ "Stadtwerke Ingolstadt Netze GmbH": {
+  "disp": "Stadtwerke Ingolstadt Netze",
+  "bl": "BY",
+  "typ": "Stadt",
+  "id": "314"
+ },
+ "Energieversorgung Rüsselsheim GmbH": {
+  "disp": "Energieversorgung Rüsselsheim",
+  "bl": "HE",
+  "typ": "Stadt",
+  "id": "7558"
+ },
+ "Stadtwerke Service Meerbusch Willich GmbH & Co. KG": {
+  "disp": "Stadtwerke Meerbusch Willich",
+  "bl": "NW",
+  "typ": "Stadt",
+  "id": "6sLLPkCrCueDwk6a8"
+ },
+ "Hanau Netz GmbH": {
+  "disp": "Hanau Netz",
+  "bl": "HE",
+  "typ": "Stadt",
+  "id": "7684"
+ },
+ "Stadtwerke Hameln Weserbergland GmbH": {
+  "disp": "Stadtwerke Hameln Weserbergland",
+  "bl": "NI",
+  "typ": "Stadt",
+  "id": "261"
+ },
+ "Stadtwerke Flensburg GmbH": {
+  "disp": "Stadtwerke Flensburg",
+  "bl": "SH",
+  "typ": "Stadt",
+  "id": "187"
+ },
+ "SWK Stadtwerke Kaiserslautern Versorgungs-AG": {
+  "disp": "SWK Kaiserslautern",
+  "bl": "RP",
+  "typ": "Stadt",
+  "id": "321"
+ },
+ "Stadtwerke Frankenthal GmbH": {
+  "disp": "Stadtwerke Frankenthal",
+  "bl": "RP",
+  "typ": "Stadt",
+  "id": "191"
+ },
+ "Stadtwerke Hockenheim": {
+  "disp": "Stadtwerke Hockenheim",
+  "bl": "BW",
+  "typ": "Stadt",
+  "id": "302"
+ },
+ "Stadtwerke Iserlohn GmbH": {
+  "disp": "Stadtwerke Iserlohn",
+  "bl": "NW",
+  "typ": "Stadt",
+  "id": "317"
+ },
+ "Stadtwerke Landshut": {
+  "disp": "Stadtwerke Landshut",
+  "bl": "BY",
+  "typ": "Stadt",
+  "id": "371"
+ },
+ "Stadtwerke Lünen GmbH": {
+  "disp": "Stadtwerke Lünen",
+  "bl": "NW",
+  "typ": "Stadt",
+  "id": "402"
+ },
+ "Überlandwerk Rhön GmbH": {
+  "disp": "Überlandwerk Rhön",
+  "bl": "BY/HE/TH",
+  "typ": "Stadt",
+  "id": "417"
+ },
+ "Stadtwerke Mosbach GmbH": {
+  "disp": "Stadtwerke Mosbach",
+  "bl": "BW",
+  "typ": "Stadt",
+  "id": "430"
+ },
+ "Stadtwerke Neustadt an der Weinstraße GmbH": {
+  "disp": "Stadtwerke Neustadt an der Weinstraße",
+  "bl": "RP",
+  "typ": "Stadt",
+  "id": "467"
+ },
+ "Stadtwerke Neuwied GmbH": {
+  "disp": "Stadtwerke Neuwied",
+  "bl": "RP",
+  "typ": "Stadt",
+  "id": "469"
+ },
+ "Stadtwerke Rastatt GmbH": {
+  "disp": "Stadtwerke Rastatt",
+  "bl": "BW",
+  "typ": "Stadt",
+  "id": "526"
+ },
+ "Energie- und Wasserversorgung Rheine GmbH": {
+  "disp": "Energie- und Wasserversorgung Rheine",
+  "bl": "NW",
+  "typ": "Stadt",
+  "id": "541"
+ },
+ "Stadtwerke Schweinfurt GmbH": {
+  "disp": "Stadtwerke Schweinfurt",
+  "bl": "BY",
+  "typ": "Stadt",
+  "id": "586"
+ },
+ "Stadtwerke Velbert GmbH": {
+  "disp": "Stadtwerke Velbert",
+  "bl": "NW",
+  "typ": "Stadt",
+  "id": "651"
+ },
+ "Stadtwerke Weinheim GmbH": {
+  "disp": "Stadtwerke Weinheim",
+  "bl": "BW",
+  "typ": "Stadt",
+  "id": "674"
+ },
+ "GEW Wilhelmshaven GmbH": {
+  "disp": "GEW Wilhelmshaven",
+  "bl": "NI",
+  "typ": "Stadt",
+  "id": "685"
+ },
+ "Stadtwerke Wolfenbüttel GmbH": {
+  "disp": "Stadtwerke Wolfenbüttel",
+  "bl": "NI",
+  "typ": "Stadt",
+  "id": "696"
+ },
+ "ENWG Energienetze Weimar GmbH & Co. KG": {
+  "disp": "ENWG Energienetze Weimar",
+  "bl": "TH",
+  "typ": "Stadt",
+  "id": "739"
+ },
+ "SWS Netze GmbH": {
+  "disp": "SWS Netze Stralsund",
+  "bl": "MV",
+  "typ": "Stadt",
+  "id": "915"
+ },
+ "Netzgesellschaft Frankfurt (Oder) mbH": {
+  "disp": "Netzgesellschaft Frankfurt (Oder)",
+  "bl": "BB",
+  "typ": "Stadt",
+  "id": "959"
+ },
+ "Stadtwerke Detmold GmbH": {
+  "disp": "Stadtwerke Detmold",
+  "bl": "NW",
+  "typ": "Stadt",
+  "id": "968"
+ },
+ "Stadtwerke Lingen GmbH": {
+  "disp": "Stadtwerke Lingen",
+  "bl": "NI",
+  "typ": "Stadt",
+  "id": "7187"
+ },
+ "e.wa riss Netze GmbH": {
+  "disp": "e.wa riss Netze",
+  "bl": "BW",
+  "typ": "Stadt",
+  "id": "7276"
+ },
+ "nvb Nordhorner Versorgungsbetriebe GmbH": {
+  "disp": "nvb Nordhorner Versorgungsbetriebe",
+  "bl": "NI",
+  "typ": "Stadt",
+  "id": "7391"
+ },
+ "KommEnergie GmbH": {
+  "disp": "KommEnergie",
+  "bl": "BY",
+  "typ": "Stadt",
+  "id": "7529"
+ },
+ "Energieversorgung Filstal GmbH & Co. KG": {
+  "disp": "Energieversorgung Filstal",
+  "bl": "BW",
+  "typ": "Stadt",
+  "id": "7645"
+ },
+ "netzplus GmbH & Co. KG": {
+  "disp": "netzplus",
+  "bl": "NI/NW",
+  "typ": "Stadt",
+  "id": "x3T5mZbpCQXRDfPJB"
+ },
+ "enwag energie- und wassergesellschaft mbh": {
+  "disp": "enwag Wetzlar",
+  "bl": "HE",
+  "typ": "Stadt",
+  "id": "EQ5hdQYCuitLBWrqu"
+ },
+ "Stadtwerke Schwäbisch Gmünd GmbH": {
+  "disp": "Stadtwerke Schwäbisch Gmünd",
+  "bl": "BW",
+  "typ": "Stadt",
+  "id": "582"
+ },
+ "NHF Netzgesellschaft Heilbronn-Franken mbH": {
+  "disp": "NHF Netzgesellschaft Heilbronn-Franken",
+  "bl": "BW",
+  "typ": "Stadt",
+  "id": "280"
+ },
+ "Stadtwerke Peine GmbH": {
+  "disp": "Stadtwerke Peine",
+  "bl": "NI",
+  "typ": "Stadt",
+  "id": "511"
+ },
+ "ENRW Energieversorgung Rottweil GmbH & Co. KG": {
+  "disp": "ENRW Energieversorgung Rottweil",
+  "bl": "BW",
+  "typ": "Stadt",
+  "id": "558"
+ },
+ "Zwickauer Energieversorgung GmbH": {
+  "disp": "Zwickauer Energieversorgung",
+  "bl": "SN",
+  "typ": "Stadt",
+  "id": "762"
+ },
+ "infra fürth gmbh": {
+  "disp": "infra fürth",
+  "bl": "BY",
+  "typ": "Stadt",
+  "id": "207"
+ },
+ "SWTE Netz GmbH & Co. KG": {
+  "disp": "SWTE Netz",
+  "bl": "NW",
+  "typ": "Stadt",
+  "id": "7792"
+ },
+ "GRUPPEN-GAS- UND ELEKTRIZITÄTSWERK BERGSTRASSE AKTIENGESELLSCHAFT": {
+  "disp": "GGEW Bergstraße",
+  "bl": "HE",
+  "typ": "Stadt",
+  "id": "78"
+ },
+ "wesernetz Bremerhaven GmbH": {
+  "disp": "wesernetz Bremerhaven",
+  "bl": "HB",
+  "typ": "Stadt",
+  "id": "107"
+ },
+ "EWR GmbH": {
+  "disp": "EWR Remscheid",
+  "bl": "NW",
+  "typ": "Stadt",
+  "id": "534"
+ },
+ "Stadtwerke Witten Mittelspannungsnetz GmbH": {
+  "disp": "Stadtwerke Witten (MS)",
+  "bl": "NW",
+  "typ": "Stadt",
+  "id": "7809"
+ },
+ "Stadtwerke Ostmünsterland GmbH & Co. KG": {
+  "disp": "Stadtwerke Ostmünsterland",
+  "bl": "NW",
+  "typ": "Stadt",
+  "id": "172"
+ },
+ "GSW Gemeinschaftsstadtwerke GmbH Kamen - Bönen - Bergkamen": {
+  "disp": "GSW Kamen-Bönen-Bergkamen",
+  "bl": "NW",
+  "typ": "Stadt",
+  "id": "323"
+ },
+ "Stadtwerke Gronau GmbH": {
+  "disp": "Stadtwerke Gronau",
+  "bl": "NW",
+  "typ": "Stadt",
+  "id": "244"
+ },
+ "Stadtwerke Stade GmbH": {
+  "disp": "Stadtwerke Stade",
+  "bl": "NI",
+  "typ": "Stadt",
+  "id": "608"
+ }
+}
