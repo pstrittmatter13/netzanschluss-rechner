@@ -46,7 +46,7 @@ Benötigt Python 3.9+ (nur Standardbibliothek) und git.
 ## Grenzen
 
 - Gerätepreise gelten für den Referenzfall 10 MW. Bei anderer Leistung ist das Ergebnis grob; die Leistung ist je Variante auf eine Leistungsklasse begrenzt.
-- Höchstspannung (S0, S0b) ohne Kostenzahl, nur Baukostenzuschuss als Untergrenze.
+- Höchstspannung (E1, E2) ohne Kostenzahl, nur Baukostenzuschuss als Untergrenze.
 - Regionale Werte nur für die im Atlas erfassten Netzbetreiber; sonst gelten die Werte der Bachelorarbeit.
 - Keine Gewähr. Maßgeblich sind die Preisblätter und Angebote der Netzbetreiber und Hersteller.
 

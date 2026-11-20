@@ -42,21 +42,21 @@ Erweiterungen) und werden nicht für das Kunden-Umspannwerk K07c verwendet; bei 
 ## 3. Varianten und Geltungsbereich
 
 - **Kostenvergleich (A, B, C1, C2):** wie Kapitel 5 der Bachelorarbeit, Referenzfall 10 MW. Bei anderer Leistung gilt das Ergebnis als grob, weil die Gerätepreise für den 10-MW-Fall erhoben sind.
-- **Leitfaden, grob:** weitere Varianten (S1, S2, S3a, S4, S5, S6, S9) mit ihrer Referenzleistung als Voreinstellung.
-- **Nur beschrieben:** S0 und S0b (Höchstspannung) ohne Kostenzahl, Untergrenze = BKZ × P; S7, S8b, S10 nur als Text.
+- **Leitfaden, grob:** weitere Varianten (E3e, E3, E5, E6, E7, M3, M2) mit ihrer Referenzleistung als Voreinstellung.
+- **Nur beschrieben:** E1 und E2 (Höchstspannung) ohne Kostenzahl, Untergrenze = BKZ × P; M4, M1d, X1 nur als Text.
 - **Leistungsklassen** je Variante (Eingabe wird darauf begrenzt) sind eine Festlegung des Rechners (19.11.2026), keine Aussage der Bachelorarbeit:
 
 | Variante | Leistungsklasse |
 |---|---|
-| A (S3b) | 2–20 MW |
-| B (S2_10MW) | 5–60 MW |
-| C1, C2 (S8a, S8a_N) | 1–20 MW |
-| S1, S2 | 10–60 MW |
-| S3a | 0,5–8 MW |
-| S4 | 30–1.000 kW |
-| S5 | 30–250 kW |
-| S6 | 0,1–10 MW |
-| S9 | 10–100 MW |
+| A (E4) | 2–20 MW |
+| B (E3_10MW) | 5–60 MW |
+| C1, C2 (M1, M1n) | 1–20 MW |
+| E3e, E3 | 10–60 MW |
+| E5 | 0,5–8 MW |
+| E6 | 30–1.000 kW |
+| E7 | 30–250 kW |
+| M3 | 0,1–10 MW |
+| M2 | 10–100 MW |
 
 ## 4. Zusammenführung mit dem Atlas
 

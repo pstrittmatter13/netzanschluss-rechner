@@ -15,7 +15,7 @@
   const esc = s => String(s ?? "").replace(/[&<>"]/g, c => ({"&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;"}[c]));
 
   // ---------- Zustand ----------
-  let st = {v: "S3b", P: 10000, L: 500, vnb: ""};
+  let st = {v: "E4", P: 10000, L: 500, vnb: ""};
   try { const s = JSON.parse(localStorage.getItem("nar1") || "{}"); if (R.VARIANTEN[s.v] || R.NUR_TEXT[s.v]) st = Object.assign(st, s); } catch (e) {}
   const speichere = () => { try { localStorage.setItem("nar1", JSON.stringify({v: st.v, P: st.P, L: st.L})); } catch (e) {} };
 
@@ -91,7 +91,7 @@
   $("r-lrange").addEventListener("input", e => { st.L = +e.target.value; aktualisiere(); });
   $("r-l").addEventListener("change", e => { st.L = Math.max(0, +e.target.value || 0); aktualisiere(); });
   $("r-vnb").addEventListener("change", e => { st.vnb = e.target.value; zurKarte(); aktualisiere(); });
-  $("r-ref").addEventListener("click", () => { st = Object.assign(st, {v: "S3b", P: 10000, L: 500, vnb: ""}); zurKarte(); aktualisiere(); });
+  $("r-ref").addEventListener("click", () => { st = Object.assign(st, {v: "E4", P: 10000, L: 500, vnb: ""}); zurKarte(); aktualisiere(); });
 
   // ---------- Kopplung mit der Karte ----------
   function zurKarte() {

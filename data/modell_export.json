@@ -153,7 +153,7 @@
    "link": "https://www.vnbdigital.de/gateway/files?serviceName=vnb&fileId=6667f1210763edd9446850d9"
   }
  },
- "datenstand": "Excel Tabelle zur Übersicht über mögliche Speicherpositionen.xlsx · geändert 19.11.2026 13:20 · SHA-256 de76cc1b1df3 · gerechnet 19.11.2026 19:24",
+ "datenstand": "Excel Tabelle zur Übersicht über mögliche Speicherpositionen.xlsx · geändert 20.11.2026 11:16 · SHA-256 22d4eb39a097 · gerechnet 20.11.2026 11:17",
  "konstanten": {
   "COS_PHI": 0.95,
   "P_KABEL_MW": 12.0
@@ -198,16 +198,16 @@
   ]
  },
  "vergleich": {
-  "A": "S3b",
-  "B": "S2_10MW",
-  "C1": "S8a",
-  "C2": "S8a_N"
+  "A": "E4",
+  "B": "E3_10MW",
+  "C1": "M1",
+  "C2": "M1n"
  },
  "mitnutzung": [
-  "S6",
-  "S8a",
-  "S8a_N",
-  "S9"
+  "M3",
+  "M1",
+  "M1n",
+  "M2"
  ],
  "bausteine": {
   "K01": {
@@ -532,7 +532,7 @@
   }
  },
  "varianten": {
-  "S0": {
+  "E1": {
    "bezeichnung": "Eigener Anschluss HöS",
    "netzebene": "HöS",
    "vergleich": null,
@@ -556,7 +556,7 @@
     "Max": 53699578.95
    }
   },
-  "S1": {
+  "E3e": {
    "bezeichnung": "Eigener Anschluss HS im Netz",
    "netzebene": "HS",
    "vergleich": null,
@@ -580,7 +580,7 @@
     "Max": 24663500.0
    }
   },
-  "S2": {
+  "E3": {
    "bezeichnung": "Eigener Anschluss HS am UW",
    "netzebene": "HS",
    "vergleich": null,
@@ -604,8 +604,8 @@
     "Max": 20663500.0
    }
   },
-  "S2_10MW": {
-   "bezeichnung": "Wie S2, mit 10 MW",
+  "E3_10MW": {
+   "bezeichnung": "Wie E3, mit 10 MW",
    "netzebene": "HS",
    "vergleich": "B",
    "kurzname": null,
@@ -628,7 +628,7 @@
     "Max": 14144700.0
    }
   },
-  "S3a": {
+  "E5": {
    "bezeichnung": "Eigener Anschluss MS im Netz",
    "netzebene": "MS",
    "vergleich": null,
@@ -652,7 +652,7 @@
     "Max": 846980.0
    }
   },
-  "S3b": {
+  "E4": {
    "bezeichnung": "Eigener Anschluss MS-Sammelschiene UW",
    "netzebene": "MS (NE 4)",
    "vergleich": "A",
@@ -676,7 +676,7 @@
     "Max": 2260900.0
    }
   },
-  "S4": {
+  "E6": {
    "bezeichnung": "NS an Ortsnetzstation",
    "netzebene": "NS (NE 6)",
    "vergleich": null,
@@ -698,7 +698,7 @@
     "Max": 48605.4
    }
   },
-  "S5": {
+  "E7": {
    "bezeichnung": "Stand-alone-Speicher im Niederspannungsnetz",
    "netzebene": "NS",
    "vergleich": null,
@@ -720,7 +720,7 @@
     "Max": 16253.5
    }
   },
-  "S6": {
+  "M3": {
    "bezeichnung": "Mitnutzung Verbraucheranschluss MS/HS (Gewerbe, Industrie, Ladepark)",
    "netzebene": "MS",
    "vergleich": null,
@@ -742,7 +742,7 @@
     "Max": 138300.0
    }
   },
-  "S7": {
+  "M4": {
    "bezeichnung": "Mitnutzung NS-Anschluss (Haushalt, Gewerbe) – BTM",
    "netzebene": "NS",
    "vergleich": null,
@@ -761,7 +761,7 @@
     "Max": 0.0
    }
   },
-  "S8a": {
+  "M1": {
    "bezeichnung": "Co-Location EE-Park (PV oder Wind), AC – nur EE-Ladung",
    "netzebene": "MS (NE 4)",
    "vergleich": "C1",
@@ -783,7 +783,7 @@
     "Max": 208900.0
    }
   },
-  "S8a_N": {
+  "M1n": {
    "bezeichnung": "Co-Location EE-Park (PV oder Wind), AC – mit Netzladung",
    "netzebene": "MS (NE 4)",
    "vergleich": "C2",
@@ -806,7 +806,7 @@
     "Max": 1858300.0
    }
   },
-  "S8b": {
+  "M1d": {
    "bezeichnung": "Co-Location PV-Park, DC (unvollständig)",
    "netzebene": "MS",
    "vergleich": null,
@@ -826,7 +826,7 @@
     "Max": 33000.0
    }
   },
-  "S9": {
+  "M2": {
    "bezeichnung": "Co-Location Windpark (HS)",
    "netzebene": "HS",
    "vergleich": null,

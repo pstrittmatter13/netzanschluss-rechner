@@ -17,25 +17,25 @@
   /* Varianten im Tool. Festlegung des Tools (19.11.2026): Leistungsklasse je Variante in kW.
      A/B/C = Kostenvergleich der BA bei 10 MW; übrige = Leitfaden, grob. */
   const VARIANTEN = {
-    S3b:     {gruppe: "vergleich", kurz: "A",  min: 2000,  max: 20000},
-    S2_10MW: {gruppe: "vergleich", kurz: "B",  min: 5000,  max: 60000},
-    S8a:     {gruppe: "vergleich", kurz: "C1", min: 1000,  max: 20000},
-    S8a_N:   {gruppe: "vergleich", kurz: "C2", min: 1000,  max: 20000},
-    S1:      {gruppe: "leitfaden", min: 10000, max: 60000},
-    S2:      {gruppe: "leitfaden", min: 10000, max: 60000},
-    S3a:     {gruppe: "leitfaden", min: 500,   max: 8000},
-    S4:      {gruppe: "leitfaden", min: 30,    max: 1000},
-    S5:      {gruppe: "leitfaden", min: 30,    max: 250},
-    S6:      {gruppe: "leitfaden", min: 100,   max: 10000},
-    S9:      {gruppe: "leitfaden", min: 10000, max: 100000},
+    E4:     {gruppe: "vergleich", kurz: "A",  min: 2000,  max: 20000},
+    E3_10MW: {gruppe: "vergleich", kurz: "B",  min: 5000,  max: 60000},
+    M1:     {gruppe: "vergleich", kurz: "C1", min: 1000,  max: 20000},
+    M1n:   {gruppe: "vergleich", kurz: "C2", min: 1000,  max: 20000},
+    E3e:      {gruppe: "leitfaden", min: 10000, max: 60000},
+    E3:      {gruppe: "leitfaden", min: 10000, max: 60000},
+    E5:     {gruppe: "leitfaden", min: 500,   max: 8000},
+    E6:      {gruppe: "leitfaden", min: 30,    max: 1000},
+    E7:      {gruppe: "leitfaden", min: 30,    max: 250},
+    M3:      {gruppe: "leitfaden", min: 100,   max: 10000},
+    M2:      {gruppe: "leitfaden", min: 10000, max: 100000},
   };
   /* Nur als Text (keine Kostenzahl), Variantenliste v2. */
   const NUR_TEXT = {
-    S0:  {name: "Eigener Anschluss Höchstspannung", text: "In der Bachelorarbeit ohne Kostenzahl. Als Untergrenze dient der Baukostenzuschuss des Übertragungsnetzbetreibers.", bkz: "K17.1"},
-    S0b: {name: "HS-Sammelschiene im ÜNB-Umspannwerk (HöS/HS)", text: "In der Bachelorarbeit nur qualitativ. Als Untergrenze dient der Baukostenzuschuss der Umspannebene HöS/HS.", bkz: "K17.2"},
-    S7:  {name: "Mitnutzung NS-Anschluss (hinter dem Zähler)", text: "In der Bachelorarbeit nur qualitativ: Mitnutzung eines bestehenden Niederspannungsanschlusses (Haushalt, Gewerbe)."},
-    S8b: {name: "Co-Location EE-Park, DC-gekoppelt", text: "In der Bachelorarbeit nur qualitativ, als Sonderfall von C1."},
-    S10: {name: "Schwarmspeicher und Energy Sharing", text: "In der Bachelorarbeit nur zur Abgrenzung, keine eigene Anschlussart."},
+    E1:  {name: "Eigener Anschluss Höchstspannung", text: "In der Bachelorarbeit ohne Kostenzahl. Als Untergrenze dient der Baukostenzuschuss des Übertragungsnetzbetreibers.", bkz: "K17.1"},
+    E2: {name: "HS-Sammelschiene im ÜNB-Umspannwerk (HöS/HS)", text: "In der Bachelorarbeit nur qualitativ. Als Untergrenze dient der Baukostenzuschuss der Umspannebene HöS/HS.", bkz: "K17.2"},
+    M4:  {name: "Mitnutzung NS-Anschluss (hinter dem Zähler)", text: "In der Bachelorarbeit nur qualitativ: Mitnutzung eines bestehenden Niederspannungsanschlusses (Haushalt, Gewerbe)."},
+    M1d: {name: "Co-Location EE-Park, DC-gekoppelt", text: "In der Bachelorarbeit nur qualitativ, als Sonderfall von C1."},
+    X1: {name: "Schwarmspeicher und Energy Sharing", text: "In der Bachelorarbeit nur zur Abgrenzung, keine eigene Anschlussart."},
   };
   const BKZ = ["K17.1", "K17.2", "K17.3", "K17.4", "K17.5", "K17.6", "K17.7"];
   const LEITUNG = {K14: "ms", K15: "hs"};               // Baustein → Atlas-Spalte €/m (NAP)
@@ -135,7 +135,7 @@
       gruppen, bausteine, geltung, hinweise, vergleichUW};
   }
 
-  /* Untergrenze für Varianten ohne Kostenzahl: BKZ × P (S0, S0b). */
+  /* Untergrenze für Varianten ohne Kostenzahl: BKZ × P (E1, E2). */
   function untergrenze(variante, P) {
     const t = NUR_TEXT[variante];
     if (!t || !t.bkz) return null;
